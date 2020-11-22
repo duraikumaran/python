@@ -21,11 +21,4 @@ Processing of images becomes faster and efficient thanks to cloud technologies a
 Cars, robots, and drones start to understand what we see in pictures and videos.
 The interface “computer vision” between machines and humans will gain much more importance within the next few years.
 
-		CAR DETECTION 
-
-The uploaded code is used in detecting cars in the given input (video or an image form).
-the given input is converted to gray scale image and given to detect multiscale as three factors
-1 is grayscale, 2 is scale factor, 3 is Minimum naibours and cascade clasifier uses a data set
-to detect any object YOLOV 3 is a good data set.
-
 
